@@ -1,7 +1,7 @@
-let nome;
-let saudacao;
+let nome; //Nome do Usuário
+let saudacao; //Saudação a ser enviada
 
-nome = "Vinicius";
+nome = "Vinicius"; 
 saudacao = "Olá, "
 
-alert(nome+saudacao);
+alert(saudacao+nome); //Da um alert com a saudacao e o nome
